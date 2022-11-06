@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking"] }
-colored = { version = "2" }
+colored = "2"
+text_io = "0.1.12"
 
